@@ -1,12 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to my little space
 
-You can use the [editor on GitHub](https://github.com/kypanz/kypanz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My nickname is Kypanz, i am Full Stack developer, i love all areas about tecnologies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Some things that i know
 
-### Markdown
+My favorite Stack
+- React Js/Native
+- Nodejs
+- Express.js
+- Mongodb
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Crypto world
+- Blockchains => ETH, TRON, Polygon, BSC, ...
+- Web3
+- Solidity => Smart Contracts, Patterns
+- DeX
+- NFT
+- deFi => staking (holding), loans ...
+
+Cyber security ( basic )
+- Information gathering
+- Port Scanning
+- Vunerability search
+- Explotation services
+- XSS
+- Sql inyection
+- Debugging with Ollydbg => Nop, Jumps, Tracing the stack, understanding what the assembly code do
+- Reversing and disammble with Ida Pro
+- Wireshark => Analize packets => some things like MitM
+- Stenography
+- Cryptography
+
+Anothers things
+- Php
+- C++
+- C#
+- Java
+- Python
+- Data structures
+- System design
+- Algorigthm
 
 ```markdown
 Syntax highlighted code block
