@@ -4,6 +4,8 @@ My nickname is Kypanz, i am Full Stack developer, i love all areas about tecnolo
 
 ### Some things that i know
 
+[kypanz.com](http://kypanz.com/)
+
 My favorite Stack
 - React Js/Native
 - Nodejs
